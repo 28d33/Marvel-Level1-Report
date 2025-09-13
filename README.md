@@ -40,17 +40,21 @@ get_weather(args.city)
 
 ```
 This part of the code ensures that the user must provide a city name when running the program.
+
 [Python File](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/weather.py)
+
+
 ![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/api.png)
 
 ---
 
 ## Task: Working with Github
+
 ---
 
 In this task, I worked with **GitHub workflows and collaboration features**.  
 I successfully completed all the required steps as mentioned in the repository’s README file.
-#
+
 ### Key Activities Performed
 1. **GitHub Actions**  
    - Learned how automated workflows are triggered and executed.  
@@ -61,7 +65,10 @@ I successfully completed all the required steps as mentioned in the repository�
 4. **Review and Merge Process**  
    - Understood how code reviews and merges are carried out, which is central to collaborative development.  
 
+### Fork
 ![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/gitfork.png)
+
+### Pull Request
 ![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/gitpr.png)
 
 ---
@@ -103,6 +110,7 @@ I successfully completed all the subtasks mentioned.
 ---
 
 ## Task:The Matrix Puzzle — Decode with NumPy & Reveal the Image
+
 ---
 
 In this task, I worked with **NumPy** and **Matplotlib** to solve a visual puzzle.  
@@ -129,11 +137,13 @@ I successfully manipulated the scrambled matrix and revealed the hidden image by
 
 [Python Script](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/script.py)
 
+
 ![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/matrix%20decode.png)
 
 ---
 
 ## Task:Portfolio Webpage
+
 ---
 
 In this task, I created a **personal portfolio website** to showcase my profile, interests, and projects.  
@@ -168,7 +178,7 @@ LINK:[Portfolio](https://d33-beryl.vercel.app/)
 
 ![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/portfolio3.png)
 
-![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/portfolio2.png)
+![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/portfolio4.png)
 
 ---
 
@@ -220,7 +230,8 @@ I successfully built a simple ultrasonic distance measurement circuit and then e
 
 
 ### Precautions / Safety Measures
-- Since this was a **virtual simulation in Tinkercad**, no physical safety concerns were involved.  
+- Since this was a **virtual simulation in Tinkercad**, no physical safety concerns were involved.
+  
 ![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/thinkercad.jpeg)
 
 ---
@@ -245,7 +256,8 @@ I first simulated the setup in **Tinkercad** and then implemented it on actual h
 3. **Hardware Implementation**  
    - Connected the Arduino UNO with the L298N motor driver and BO motor on breadboard/hardware setup.  
    - Uploaded the same Arduino code to test motor speed control physically.  
-   - Recorded videos of the working circuit to demonstrate the results.  
+   - Recorded videos of the working circuit to demonstrate the results.
+  
 ![](https://github.com/ashith-17/Marvel-Level-0-Report/blob/main/api.png)
 
 ---
@@ -276,12 +288,14 @@ I used the **Arduino IDE** to write and upload the code, after configuring it fo
    - Controlled the LED from a web browser using the ESP32’s hosted page.
    
 [.ino file](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/LED.ino)
+
 ![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/ledesp.jpeg)
+
 ![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/esp32_server.png)
 
 ---
 
-## Soldering Prerequisites
+## Task:Soldering Prerequisites
 
 ---
 
@@ -300,7 +314,8 @@ I practiced soldering a simple LED circuit on a perf board using the standard to
 
 3. **Supervised Hands-On Session**  
    - All soldering was performed under the guidance of a coordinator to ensure safety.  
-   - Gained confidence in handling soldering equipment properly.  
+   - Gained confidence in handling soldering equipment properly.
+     
 ![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/soldering.jpeg)
 
 ---
@@ -328,6 +343,7 @@ Through this activity, I learned:
 - The value of applying what I learn in papers or talks to my technical and academic work.  
 
 ![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/phtb.jpeg)
+
 ![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/phtbc.jpeg)
 
 ---
@@ -356,7 +372,8 @@ For this task, I studied the **datasheet of the L293D Motor Driver IC** and wrot
    - Mapped how the inputs from a microcontroller determine motor direction and speed.  
 
 5. **Applications**  
-   - Documented common uses such as robotics, stepper motor control, and automation systems.  
+   - Documented common uses such as robotics, stepper motor control, and automation systems.
+     
 [REPORT](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/L293D_Motor_Driver_Report.txt)
 
 ---
@@ -386,6 +403,7 @@ For this task, I studied **Virtual Reality (VR)** and documented its application
 5. **Indian Companies**  
    - Researched Indian startups and firms like **Imaginate**, **Simbott**, **Parallax Labs**, and **Tata Elxsi** working in the VR/AR sector.  
    - Noted their contributions in enterprise solutions, training simulators, and XR content development.
+     
 [Link to Report](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/VR_AR.txt)
 
 ---
@@ -409,6 +427,7 @@ I worked on the given scenario **Command Line Murders** and successfully trouble
 
 3. **Verification**  
    - The Final Hashes were Matched
+     
 ![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/sad%20servers.png)
 
 ---
