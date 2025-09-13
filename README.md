@@ -1,7 +1,8 @@
 # Deekshith A \| CSE \| Batch 28’
+#
 
 ## TASK:API
-### Report on Weather API CLI Tool
+### Weather API CLI Tool
 
 
 ### 1. Introduction
@@ -39,7 +40,7 @@ get_weather(args.city)
 
 ```
 This part of the code ensures that the user must provide a city name when running the program.
-![](https://github.com/ashith-17/Marvel-Level-0-Report/blob/main/api.png)
+![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/api.png)
 
 
 ## Task: Working with Github
@@ -57,9 +58,10 @@ I successfully completed all the required steps as mentioned in the repository�
 4. **Review and Merge Process**  
    - Understood how code reviews and merges are carried out, which is central to collaborative development.  
 
-# still addding is left
+![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/gitfork.png)
+![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/gitpr.png)
 
-
+#
 
 ## Task: Get familiar with the command line on ubuntu and do the following subtasks
 
@@ -92,7 +94,7 @@ I successfully completed all the subtasks mentioned.
      ```
 
 
-![](https://github.com/ashith-17/Marvel-Level-0-Report/blob/main/api.png)
+![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/linux.png)
 
 # 
 ## Task:The Matrix Puzzle — Decode with NumPy & Reveal the Image
@@ -119,7 +121,7 @@ I successfully manipulated the scrambled matrix and revealed the hidden image by
      - Adjusted orientation to make the image upright.  
      - Reversed the matrix where necessary to reveal the final image.  
 
-![](https://github.com/ashith-17/Marvel-Level-0-Report/blob/main/api.png)
+![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/matrix%20decode.png)
 #
 
 ## Task:Portfolio Webpage
@@ -148,7 +150,13 @@ It was also pushed to a GitHub repository for version control and deployment.
    - Initialized a **Git repository** for the project.  
    - Pushed the code to **GitHub** and vercel was used for hosting and collaboration.  
 
-![](https://github.com/ashith-17/Marvel-Level-0-Report/blob/main/api.png)
+![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/portfolio1.png)
+
+![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/portfolio2.png)
+
+![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/portfolio3.png)
+
+![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/portfolio2.png)
 #
 
 ## Task:Writing Resource Article using Markdown
@@ -168,7 +176,7 @@ I chose the topic **Social Engineering** and prepared an article explaining the 
 3. **Formatting & Publishing**  
    - Verified that the Markdown format displays consistently across devices.  
    - Posted the completed article on the **MARVEL website** as instructed.  
-![](https://github.com/ashith-17/Marvel-Level-0-Report/blob/main/api.png)
+![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/Social_Engineering.md)
 #
 
 ## Task:Thinkercad
@@ -194,7 +202,7 @@ I successfully built a simple ultrasonic distance measurement circuit and then e
 
 ### Precautions / Safety Measures
 - Since this was a **virtual simulation in Tinkercad**, no physical safety concerns were involved.  
-![](https://github.com/ashith-17/Marvel-Level-0-Report/blob/main/api.png)
+![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/thinkercad.jpeg)
 #
 
 ## Task:Speed Control of DC Motor
@@ -242,7 +250,7 @@ I used the **Arduino IDE** to write and upload the code, after configuring it fo
 4. **Testing**  
    - Uploaded the program to the ESP32.  
    - Controlled the LED from a web browser using the ESP32’s hosted page.  
-![](https://github.com/ashith-17/Marvel-Level-0-Report/blob/main/api.png)
+![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/ledesp.jpeg)
 #
 
 ## Soldering Prerequisites
@@ -263,7 +271,7 @@ I practiced soldering a simple LED circuit on a perf board using the standard to
 3. **Supervised Hands-On Session**  
    - All soldering was performed under the guidance of a coordinator to ensure safety.  
    - Gained confidence in handling soldering equipment properly.  
-![](https://github.com/ashith-17/Marvel-Level-0-Report/blob/main/api.png)
+![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/soldering.jpeg)
 #
 
 ## Task:Active Participation
@@ -285,8 +293,11 @@ Through this activity, I learned:
 - How attending professional events helps in networking and gaining exposure to advanced topics.  
 - The value of applying what I learn in papers or talks to my technical and academic work.  
 
-![](https://github.com/ashith-17/Marvel-Level-0-Report/blob/main/api.png)
+![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/phtb.jpeg)
+![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/phtbc.jpeg)
 #
+#
+
 
 
 ## Task:Datasheets report writing
@@ -312,7 +323,7 @@ For this task, I studied the **datasheet of the L293D Motor Driver IC** and wrot
 
 5. **Applications**  
    - Documented common uses such as robotics, stepper motor control, and automation systems.  
-![](https://github.com/ashith-17/Marvel-Level-0-Report/blob/main/api.png)
+![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/L293D_Motor_Driver_Report.txt)
 #
 
 ## Task:Introduction to VR
@@ -356,7 +367,7 @@ I worked on the given scenario **Command Line Murders** and successfully trouble
 
 3. **Verification**  
    - The Final Hashes were Matched
-![](https://github.com/ashith-17/Marvel-Level-0-Report/blob/main/api.png)
+![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/VR_AR.txt)
 #
 
 
@@ -398,4 +409,4 @@ Through this activity, I learned:
 - The basics of implementing **session-based authentication** in a backend app.
 - How to design and serve dynamic HTML pages for real-world use cases.
 
-![](https://github.com/ashith-17/Marvel-Level-0-Report/blob/main/api.png)
+![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/webapp1.png)
