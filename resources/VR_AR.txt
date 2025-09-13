@@ -1,0 +1,143 @@
+Virtual Reality (VR) — Report
+
+1) What is Virtual Reality (VR)?
+
+Virtual Reality (VR) is a computer-generated, immersive environment that
+completely replaces the user’s view of the real world with a simulated
+3D environment. Users typically access VR through head-mounted displays
+(HMDs) and input devices (controllers, gloves, trackers). VR systems
+combine stereoscopic displays, head-tracking, spatial audio, and often
+handheld controllers or body sensors to create presence — the feeling of
+“being there.”
+Source: https://splunk.com/en_us/data-insider/what-is-vr.html
+
+Use-cases: Entertainment & gaming, training & simulation, education,
+therapy.
+Source:
+https://www.startus-insights.com/innovators-guide/virtual-reality-trends/
+
+------------------------------------------------------------------------
+
+2) VR vs AR — the core differences
+
+-   VR: Fully replaces the real world with a virtual environment
+    (isolation).
+-   AR: Overlays digital content on the real world.
+    Source: https://www.shopify.com/blog/ar-vr
+
+Hardware:
+- VR: HMDs like Meta Quest, HTC Vive, Valve Index
+- AR: Smartphones, tablets, smart glasses (HoloLens, Magic Leap)
+
+Interaction:
+- VR: High immersion (3D audio, controllers, haptics)
+- AR: Contextual overlay (navigation, guidance)
+
+Use-cases:
+- VR: Training, gaming, simulations
+- AR: Retail try-on, procedural guidance, remote assistance
+
+------------------------------------------------------------------------
+
+3) Current trends in VR/XR
+
+1.  Hardware: Standalone headsets like Meta Quest evolving.
+2.  Standards: OpenXR and WebXR adoption.
+3.  Haptics: Gloves, vests.
+4.  AI convergence: Procedural worlds, AI NPCs, asset generation.
+5.  Enterprise adoption: Digital twins, training, XR collaboration.
+6.  Cloud streaming: Remote GPU rendering.
+7.  Safety/privacy: Regulatory focus on social VR safety.
+8.  Metaverse/social XR: Shifting from consumer hype to enterprise
+    collaboration.
+
+Sources:
+-
+https://www.startus-insights.com/innovators-guide/virtual-reality-trends/
+- https://www.qualcomm.com/products/snapdragon-spaces
+- https://www.w3.org/TR/webxr/
+
+------------------------------------------------------------------------
+
+4) Technology stack
+
+Hardware: HMDs (Meta Quest, HTC Vive, Pico, HoloLens).
+APIs: OpenXR, WebXR.
+Engines: Unity, Unreal, Three.js, Babylon.js, A-Frame.
+3D Assets: Blender, Maya, 3ds Max, Substance; glTF format.
+Graphics APIs: Vulkan, DirectX, Metal.
+Networking: WebRTC, cloud GPU streaming.
+Audio: FMOD, Wwise, spatial audio SDKs.
+Computer Vision: ARKit, ARCore, SLAM libraries.
+
+Sources:
+- https://www.khronos.org/openxr/
+- https://developer.oculus.com/documentation/unity/unity-xr/
+- https://aframe.io/
+
+------------------------------------------------------------------------
+
+5) Market signals
+
+-   Global VR market projected at tens of billions USD by 2030 (CAGR
+    ~20%).
+    Source:
+    https://www.fortunebusinessinsights.com/industry-reports/virtual-reality-market-101378
+
+-   India’s XR/metaverse market: multi-billion opportunity by 2030.
+    Source:
+    https://www.grandviewresearch.com/industry-analysis/metaverse-market
+
+------------------------------------------------------------------------
+
+6) Indian Companies
+
+1.  Imaginate (Hyderabad) – XR collaboration platform “NuSpace”.
+    Source: https://imaginate.in/
+
+2.  Simbott – VR training simulators for welding, safety, industry.
+    Source: https://simbott.com/
+
+3.  Parallax Labs (Mumbai) – VR/AR/MR content, R&D.
+    Source: https://www.parallaxlabs.in/
+
+4.  Tata Elxsi – XR design, enterprise digital twins, Coalesce XR.
+    Source: https://www.tataelxsi.com/industries/xr
+
+5.  Others – eSparkBiz, Monkhub, CXR Agency (smaller XR studios).
+
+------------------------------------------------------------------------
+
+7) Opportunities & challenges
+
+Opportunities: Enterprise training, device-agnostic solutions, consumer
+adoption via affordable headsets.
+Challenges: Device fragmentation, costly 3D asset pipelines, UX/motion
+sickness, social VR safety/privacy.
+
+------------------------------------------------------------------------
+
+8) Recommendations
+
+-   Use Unity or Unreal with OpenXR.
+-   Prioritize performance (90+ FPS, latency control).
+-   Adopt glTF asset pipelines.
+-   Build for enterprise first (ROI-focused).
+-   Implement moderation & privacy if building social XR.
+
+------------------------------------------------------------------------
+
+9) References (select)
+
+-   OpenXR: https://www.khronos.org/openxr/
+-   WebXR: https://immersive-web.github.io/webxr/
+-   StartUs Insights VR Report:
+    https://www.startus-insights.com/innovators-guide/virtual-reality-trends/
+-   Fortune Business Insights VR Market:
+    https://www.fortunebusinessinsights.com/industry-reports/virtual-reality-market-101378
+-   Grand View Research Metaverse Report:
+    https://www.grandviewresearch.com/industry-analysis/metaverse-market
+-   Imaginate: https://imaginate.in/
+-   Simbott: https://simbott.com/
+-   Parallax Labs: https://www.parallaxlabs.in/
+-   Tata Elxsi XR: https://www.tataelxsi.com/industries/xr
