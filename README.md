@@ -1,5 +1,5 @@
 # Deekshith A \| CSE \| Batch 28’
-#
+---
 
 ## TASK:API
 ### Weather API CLI Tool
@@ -9,14 +9,14 @@
 In this task, I created a simple **command-line tool in Python** to fetch real-time weather information of a given city.  
 The program uses an external **Weather API** and displays details like temperature, weather condition, and wind speed.  
 
----
+#
 
 ### 2. API Used
 - I used the **WeatherAPI.com** service: [https://www.weatherapi.com](https://www.weatherapi.com)  
 - The API requires a **key** for authentication.  
 - Data is returned in **JSON format**, which the program parses to extract useful information.  
 
----
+#
 
 ### 3. Working of the CLI Tool
 1. The user enters the city name as an argument when running the script.  
@@ -28,7 +28,7 @@ The program uses an external **Weather API** and displays details like temperatu
    - Weather condition (e.g., clear, cloudy)  
    - Wind speed  
 
----
+#
 
 ## 4. Example Code Snippet
 ```python
@@ -40,14 +40,17 @@ get_weather(args.city)
 
 ```
 This part of the code ensures that the user must provide a city name when running the program.
+[Python File](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/weather.py)
 ![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/api.png)
 
+---
 
 ## Task: Working with Github
+---
 
 In this task, I worked with **GitHub workflows and collaboration features**.  
 I successfully completed all the required steps as mentioned in the repository’s README file.
-
+#
 ### Key Activities Performed
 1. **GitHub Actions**  
    - Learned how automated workflows are triggered and executed.  
@@ -61,9 +64,10 @@ I successfully completed all the required steps as mentioned in the repository�
 ![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/gitfork.png)
 ![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/gitpr.png)
 
-#
+---
 
 ## Task: Get familiar with the command line on ubuntu and do the following subtasks
+---
 
 In this task, I worked with the **Ubuntu command line** and practiced basic shell commands.  
 I successfully completed all the subtasks mentioned.
@@ -96,8 +100,10 @@ I successfully completed all the subtasks mentioned.
 
 ![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/linux.png)
 
-# 
+---
+
 ## Task:The Matrix Puzzle — Decode with NumPy & Reveal the Image
+---
 
 In this task, I worked with **NumPy** and **Matplotlib** to solve a visual puzzle.  
 I successfully manipulated the scrambled matrix and revealed the hidden image by using array operations and plotting techniques.
@@ -119,16 +125,22 @@ I successfully manipulated the scrambled matrix and revealed the hidden image by
    - Applied the hints:
      - Reshaped into a square.  
      - Adjusted orientation to make the image upright.  
-     - Reversed the matrix where necessary to reveal the final image.  
+     - Reversed the matrix where necessary to reveal the final image.
+
+[Python Script](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/script.py)
 
 ![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/matrix%20decode.png)
-#
+
+---
 
 ## Task:Portfolio Webpage
+---
 
 In this task, I created a **personal portfolio website** to showcase my profile, interests, and projects.  
 The website was built with HTML, CSS, Javascript and made responsive using modern design practices.  
 It was also pushed to a GitHub repository for version control and deployment.
+
+LINK:[Portfolio](https://d33-beryl.vercel.app/)
 
 ### Key Activities Performed
 1. **Website Structure**  
@@ -157,9 +169,12 @@ It was also pushed to a GitHub repository for version control and deployment.
 ![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/portfolio3.png)
 
 ![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/portfolio2.png)
-#
+
+---
 
 ## Task:Writing Resource Article using Markdown
+
+---
 
 In this task, I learned how to write a **technical resource article** using Markdown.  
 I chose the topic **Social Engineering** and prepared an article explaining the concept, common attack methods, real-world examples, and safety tips.  
@@ -176,10 +191,14 @@ I chose the topic **Social Engineering** and prepared an article explaining the 
 3. **Formatting & Publishing**  
    - Verified that the Markdown format displays consistently across devices.  
    - Posted the completed article on the **MARVEL website** as instructed.  
-![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/Social_Engineering.md)
-#
+
+[REPORT](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/Social_Engineering.md)
+
+---
 
 ## Task:Thinkercad
+
+---
 
 In this task, I created and simulated circuits using **Tinkercad**, gaining hands-on experience with basic electronic components and Arduino programming.  
 I successfully built a simple ultrasonic distance measurement circuit and then extended it to a radar system with a servo motor.
@@ -203,9 +222,12 @@ I successfully built a simple ultrasonic distance measurement circuit and then e
 ### Precautions / Safety Measures
 - Since this was a **virtual simulation in Tinkercad**, no physical safety concerns were involved.  
 ![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/thinkercad.jpeg)
-#
+
+---
 
 ## Task:Speed Control of DC Motor
+
+---
 
 In this task, I explored different techniques to control the speed of a **DC motor** using an **Arduino UNO** and an **L298N H-Bridge motor driver**.  
 I first simulated the setup in **Tinkercad** and then implemented it on actual hardware with a 5V BO motor.
@@ -226,9 +248,11 @@ I first simulated the setup in **Tinkercad** and then implemented it on actual h
    - Recorded videos of the working circuit to demonstrate the results.  
 ![](https://github.com/ashith-17/Marvel-Level-0-Report/blob/main/api.png)
 
-#
+---
 
 ## Task:LED Toggle Using ESP32
+
+---
 
 In this task, I learned the basics of working with the **ESP32 microcontroller** and created a standalone **web server** to control an LED connected to its GPIO pins.  
 I used the **Arduino IDE** to write and upload the code, after configuring it for ESP32 support.
@@ -249,11 +273,17 @@ I used the **Arduino IDE** to write and upload the code, after configuring it fo
 
 4. **Testing**  
    - Uploaded the program to the ESP32.  
-   - Controlled the LED from a web browser using the ESP32’s hosted page.  
+   - Controlled the LED from a web browser using the ESP32’s hosted page.
+   
+[.ino file](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/LED.ino)
 ![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/ledesp.jpeg)
-#
+![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/esp32_server.png)
+
+---
 
 ## Soldering Prerequisites
+
+---
 
 In this task, I learned about the **soldering equipment** available in the lab and performed basic soldering under the supervision of a coordinator.  
 I practiced soldering a simple LED circuit on a perf board using the standard tools.
@@ -272,9 +302,13 @@ I practiced soldering a simple LED circuit on a perf board using the standard to
    - All soldering was performed under the guidance of a coordinator to ensure safety.  
    - Gained confidence in handling soldering equipment properly.  
 ![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/soldering.jpeg)
-#
+
+---
 
 ## Task:Active Participation
+
+---
+
 In this task, I fulfilled the **Active Participation** requirements by attending a technical event and documenting the certificate of participation.
 
 ### Event Attended
@@ -295,12 +329,12 @@ Through this activity, I learned:
 
 ![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/phtb.jpeg)
 ![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/phtbc.jpeg)
-#
-#
 
-
+---
 
 ## Task:Datasheets report writing
+
+---
 
 For this task, I studied the **datasheet of the L293D Motor Driver IC** and wrote a detailed report covering its features, internal structure, and applications.  
 
@@ -323,10 +357,13 @@ For this task, I studied the **datasheet of the L293D Motor Driver IC** and wrot
 
 5. **Applications**  
    - Documented common uses such as robotics, stepper motor control, and automation systems.  
-![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/L293D_Motor_Driver_Report.txt)
-#
+[REPORT](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/L293D_Motor_Driver_Report.txt)
+
+---
 
 ## Task:Introduction to VR
+
+---
 
 For this task, I studied **Virtual Reality (VR)** and documented its applications, differences from **Augmented Reality (AR)**, current trends, technology stack, and Indian companies working in this field.
 
@@ -348,9 +385,14 @@ For this task, I studied **Virtual Reality (VR)** and documented its application
 
 5. **Indian Companies**  
    - Researched Indian startups and firms like **Imaginate**, **Simbott**, **Parallax Labs**, and **Tata Elxsi** working in the VR/AR sector.  
-   - Noted their contributions in enterprise solutions, training simulators, and XR content development.  
+   - Noted their contributions in enterprise solutions, training simulators, and XR content development.
+[Link to Report](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/VR_AR.txt)
+
+---
 
 ## Task:Sad servers - "Like LeetCode for Linux"
+
+---
 
 In this task, I practiced Linux troubleshooting using **Sad Servers**, an online platform designed like "LeetCode for Linux."  
 I worked on the given scenario **Command Line Murders** and successfully troubleshooted the server to make it functional again.
@@ -368,10 +410,12 @@ I worked on the given scenario **Command Line Murders** and successfully trouble
 3. **Verification**  
    - The Final Hashes were Matched
 ![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/sad%20servers.png)
-#
 
+---
 
 ## Task: Make a Web App
+
+---
 
 In this task, I created a **web application** using **Node.js (Express)** and **SQLite** that functions as a resource library.  
 The app allows users to browse available resources such as articles and books, as well as manage their personal accounts.
