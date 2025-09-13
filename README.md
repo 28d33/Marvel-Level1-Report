@@ -127,7 +127,6 @@ I successfully manipulated the scrambled matrix and revealed the hidden image by
 
 3. **Visualization with Matplotlib**  
    - Used `matplotlib.pyplot.imshow()` to display the decoded matrix as an image.  
-   - Experimented with color maps (`cmap`) for better visualization.  
 
 4. **Decoding the Hidden Image**  
    - Applied the hints:
@@ -258,7 +257,7 @@ I first simulated the setup in **Tinkercad** and then implemented it on actual h
    - Uploaded the same Arduino code to test motor speed control physically.  
    - Recorded videos of the working circuit to demonstrate the results.
   
-![](https://github.com/ashith-17/Marvel-Level-0-Report/blob/main/api.png)
+![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/speed%20control.jpg)
 
 ---
 
