@@ -1,7 +1,7 @@
 import argparse
 import requests
 
-API_KEY = "057472545b5444bca3732612251109" 
+API_KEY = "057472xxxxxxxxxxxxxxxxxxxxxxxxxxxx51109" 
 BASE_URL = "http://api.weatherapi.com/v1/current.json"
 
 def get_weather(city):
