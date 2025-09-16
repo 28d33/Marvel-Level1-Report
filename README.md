@@ -44,7 +44,7 @@ This part of the code ensures that the user must provide a city name when runnin
 [Python File](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/weather.py)
 
 
-![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/api.png)
+![](https://github.com/28d33/Marvel-Level1-Report/raw/main/resources/api.png)
 
 ---
 
@@ -66,10 +66,10 @@ I successfully completed all the required steps as mentioned in the repositoryâ€
    - Understood how code reviews and merges are carried out, which is central to collaborative development.  
 
 ### Fork
-![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/gitfork.png)
+![](https://github.com/28d33/Marvel-Level1-Report/raw/main/resources/gitfork.png)
 
 ### Pull Request
-![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/gitpr.png)
+![](https://github.com/28d33/Marvel-Level1-Report/raw/main/resources/gitpr.png)
 
 ---
 
@@ -105,7 +105,7 @@ I successfully completed all the subtasks mentioned.
      ```
 
 
-![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/linux.png)
+![](https://github.com/28d33/Marvel-Level1-Report/raw/main/resources/linux.png)
 
 ---
 
@@ -137,7 +137,7 @@ I successfully manipulated the scrambled matrix and revealed the hidden image by
 [Python Script](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/script.py)
 
 
-![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/matrix%20decode.png)
+![](https://github.com/28d33/Marvel-Level1-Report/raw/main/resources/matrix%20decode.png)
 
 ---
 
@@ -171,13 +171,13 @@ LINK:[Portfolio](https://d33-beryl.vercel.app/)
    - Initialized a **Git repository** for the project.  
    - Pushed the code to **GitHub** and vercel was used for hosting and collaboration.  
 
-![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/portfolio1.png)
+![](https://github.com/28d33/Marvel-Level1-Report/raw/main/resources/portfolio1.png)
 
-![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/portfolio2.png)
+![](https://github.com/28d33/Marvel-Level1-Report/raw/main/resources/portfolio2.png)
 
-![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/portfolio3.png)
+![](https://github.com/28d33/Marvel-Level1-Report/raw/main/resources/portfolio3.png)
 
-![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/portfolio4.png)
+![](https://github.com/28d33/Marvel-Level1-Report/raw/main/resources/portfolio4.png)
 
 ---
 
@@ -201,7 +201,7 @@ I chose the topic **Social Engineering** and prepared an article explaining the 
    - Verified that the Markdown format displays consistently across devices.  
    - Posted the completed article on the **MARVEL website** as instructed.  
 
-[REPORT](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/Social_Engineering.md)
+[REPORT](https://github.com/28d33/Marvel-Level1-Report/raw/main/resources/Social_Engineering.md)
 
 ---
 
@@ -231,7 +231,7 @@ I successfully built a simple ultrasonic distance measurement circuit and then e
 ### Precautions / Safety Measures
 - Since this was a **virtual simulation in Tinkercad**, no physical safety concerns were involved.
   
-![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/thinkercad.jpeg)
+![](https://github.com/28d33/Marvel-Level1-Report/raw/main/resources/thinkercad.jpeg)
 
 ---
 
@@ -257,7 +257,7 @@ I first simulated the setup in **Tinkercad** and then implemented it on actual h
    - Uploaded the same Arduino code to test motor speed control physically.  
    - Recorded videos of the working circuit to demonstrate the results.
   
-![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/speed%20control.jpg)
+![](https://github.com/28d33/Marvel-Level1-Report/raw/main/resources/speed%20control.jpg)
 
 ---
 
@@ -288,9 +288,9 @@ I used the **Arduino IDE** to write and upload the code, after configuring it fo
    
 [.ino file](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/LED.ino)
 
-![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/ledesp.jpeg)
+![](https://github.com/28d33/Marvel-Level1-Report/raw/main/resources/ledesp.jpeg)
 
-![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/esp32_server.png)
+![](https://github.com/28d33/Marvel-Level1-Report/raw/main/resources/esp32_server.png)
 
 ---
 
@@ -315,7 +315,7 @@ I practiced soldering a simple LED circuit on a perf board using the standard to
    - All soldering was performed under the guidance of a coordinator to ensure safety.  
    - Gained confidence in handling soldering equipment properly.
      
-![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/soldering.jpeg)
+![](https://github.com/28d33/Marvel-Level1-Report/raw/main/resources/soldering.jpeg)
 
 ---
 
@@ -341,9 +341,9 @@ Through this activity, I learned:
 - How attending professional events helps in networking and gaining exposure to advanced topics.  
 - The value of applying what I learn in papers or talks to my technical and academic work.  
 
-![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/phtb.jpeg)
+![](https://github.com/28d33/Marvel-Level1-Report/raw/main/resources/phtb.jpeg)
 
-![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/phtbc.jpeg)
+![](https://github.com/28d33/Marvel-Level1-Report/raw/main/resources/phtbc.jpeg)
 
 ---
 
@@ -427,7 +427,7 @@ I worked on the given scenario **Command Line Murders** and successfully trouble
 3. **Verification**  
    - The Final Hashes were Matched
      
-![](https://github.com/28d33/Marvel-Level1-Report/blob/main/resources/sad%20servers.png)
+![](https://github.com/28d33/Marvel-Level1-Report/raw/main/resources/sad%20servers.png)
 
 ---
 
